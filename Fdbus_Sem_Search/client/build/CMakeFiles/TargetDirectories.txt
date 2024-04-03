@@ -1,0 +1,3 @@
+/mnt/Share/Work/Project/Fdbus_Search/client/build/CMakeFiles/ClientApp.dir
+/mnt/Share/Work/Project/Fdbus_Search/client/build/CMakeFiles/edit_cache.dir
+/mnt/Share/Work/Project/Fdbus_Search/client/build/CMakeFiles/rebuild_cache.dir

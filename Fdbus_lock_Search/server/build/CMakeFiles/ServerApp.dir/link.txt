@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ServerApp.dir/Src/InverTerm.cpp.o CMakeFiles/ServerApp.dir/Src/server.cpp.o -o /mnt/Share/Work/Project/Fdbus_Search/Demo/ServerApp  -lpthread -lfdbus -lfdbus-clib 

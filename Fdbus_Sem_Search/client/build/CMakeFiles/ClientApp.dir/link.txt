@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ClientApp.dir/client.cpp.o -o /mnt/Share/Work/Project/Fdbus_Search/Demo/ClientApp   -L/usr/local/usr/lib  -Wl,-rpath,/usr/local/usr/lib -lpthread -lfdbus -lfdbus-clib 
